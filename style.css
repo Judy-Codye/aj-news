@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+
+}
+td {
+    padding: 30px;
+    margin: auto;
+    vertical-align: top;
+}
+
+#middle img {
+vertical-align: top;
+}
